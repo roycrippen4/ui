@@ -1,7 +1,7 @@
 ---@meta
 
 --- Don't edit or require this file
-error("Requring a meta file")
+error "Requring a meta file"
 
 ---@class HLGroups
 ---@field nvUpdaterTitleFAIL Base46HLGroups # highlight group for nvchad_updater
@@ -60,6 +60,7 @@ error("Requring a meta file")
 ---@field TelescopeNormal Base46HLGroups # highlight group for telescope
 ---@field TelescopeBorder Base46HLGroups # highlight group for telescope
 ---@field TblineTabNewBtn Base46HLGroups # highlight group for tabufline
+---@field TblineTabUnderline Base46HLGroups # highlight group for tabufline
 ---@field TblineFill Base46HLGroups # highlight group for tabufline
 ---@field TbLineThemeToggleBtn Base46HLGroups # highlight group for tabufline
 ---@field TbLineTabOn Base46HLGroups # highlight group for tabufline
